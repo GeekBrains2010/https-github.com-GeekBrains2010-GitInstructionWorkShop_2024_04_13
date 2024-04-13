@@ -9,6 +9,9 @@
 ## Установка git и VSCode на ваш ПК.
 
 ### Установка VSCode на ваш ПК.
+1. Загрузите установщик Visual Studio Code для Windows.
+2. После загрузки запустите программу установки (VSCodeUserSetup-{version}.exe). Это займет всего минуту.
+3. По умолчанию VS Code установлен в C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code.
 
 ### Установка git на ваш ПК
 
