@@ -54,3 +54,4 @@
 # Система одновременных версий (CVS)
 
 # Apache Subversion (SVN)
+Subversion — свободная централизованная система управления версиями, официально выпущенная в 2004 году компанией CollabNet. С 2010 года Subversion является одним из проектов Apache Software Foundation и официально называется Apache Subversion.
